@@ -1,0 +1,158 @@
+#safe::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+/*头部开始*/
+*{
+
+    padding: 0;
+    margin: 0;
+}
+
+header{
+
+
+    height: 60px;
+
+
+}
+.safe{
+    width: 1200px;
+    background: white;
+   margin: 0 auto;
+
+}
+.headerTxt{
+    text-align: right;
+    font-size: 14px;
+    color: #666666;
+    line-height: 58px;
+}
+.headerTxt>*{vertical-align: middle;}
+.icon-dianhua{
+    font-size: 20px;
+    margin-right: 10px;
+}
+/*.mr18{*/
+    /*margin-right: 18px;*/
+/*}*/
+/*头部结束*/
+
+/*楼层2*/
+#floor2{
+
+    height: 1000px;
+    background-color: #4eb55f;
+
+}
+.f-left{
+    float: left;
+}
+.f-right{
+    float: right;
+}
+.font{
+    color: white;
+    text-align: right;
+    padding-top: 412px;
+}
+.f2Img{margin-top: 148px;}
+.font>h1{font-size: 36px;padding-bottom: 24px;}
+.font>p{font-size: 18px;}
+/*楼层2结束*/
+
+
+/*楼层3*/
+#floor3{
+
+    height: 1000px;
+    background-color: #eb9c36;
+
+}
+.f-left{
+    float: right;
+}
+.f-right{
+    float: left;
+}
+.font{
+    color: white;
+    text-align: left;
+    padding-top: 412px;
+}
+.f2Img{margin-top: 200px;}
+.font>h1{font-size: 36px;padding-bottom: 24px;}
+.font>p{font-size: 18px;}
+/*楼层3结束*/
+
+/*楼层4*/
+#floor4{
+
+    height: 1000px;
+    background-color: #ed683f;
+
+}
+.f-left{
+    float: left;
+}
+.f-right{
+    float: right;
+}
+.font{
+    color: white;
+    text-align: left;
+    padding-top: 412px;
+}
+.f2Img{margin-top: 200px;}
+.font>h1{font-size: 36px;padding-bottom: 24px;}
+.font>p{font-size: 18px;}
+/*楼层4结束*/
+
+
+/*楼层5*/
+#floor5{
+
+    height: 1000px;
+    background-color: #4c9bd7;
+
+}
+.f-left{
+    float: right;
+}
+.f-right{
+    float: left;
+}
+.font{
+    color: white;
+    text-align: left;
+    padding-top: 412px;
+}
+.f2Img{margin-top: 250px;}
+.font>h1{font-size: 36px;padding-bottom: 24px;}
+.font>p{font-size: 18px;}
+/*楼层5结束*/
+
+/*楼层6*/
+#floor6{
+
+    height: 1000px;
+    background-color: #356b95;
+
+}
+.f-left{
+    float: left;
+}
+.f-right{
+    float: right;
+}
+.font{
+    color: white;
+    text-align: left;
+    padding-top: 412px;
+}
+.f2Img{margin-top: 250px;}
+.font>h3{font-size: 36px;padding-bottom: 24px;}
+.font>p{font-size: 18px;}
+/*楼层6结束*/
+
