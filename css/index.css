@@ -8,6 +8,8 @@
 
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
+
 }
 
 header{
@@ -164,3 +166,55 @@ header{
 .f4font h1{font-size: 28px;}
 .disInline{display: inline-block;}
 
+
+
+
+
+#fixed{
+    height: 150px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color:rgba(0,0,0,0.5);
+    text-align: center;
+    color: white;
+    font-size: 0px;
+    padding-top: 20px;
+
+}
+
+#fixed>img{
+    height: 110px;
+
+
+}
+
+#fixed>span{
+
+    font-size: 18px;
+    margin-right: 50px;
+
+}
+#fixed>*{
+    vertical-align: middle;
+
+}
+
+#fixed>button{
+    height: 50px;
+    width: 220px;
+    font-size: 18px;
+    border-radius: 10px;
+    margin-right: 50px;
+
+
+}
+.icon-anzhuo{
+    font-size: 18px;
+    margin-right: 10px;
+}
+.icon-ai-ios{
+    font-size: 18px;
+    margin-right: 10px;
+}
